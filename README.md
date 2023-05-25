@@ -12,6 +12,8 @@ Trophies
 
 Feel free to check out my repositories to see some of my work. If you have any questions or want to collaborate, feel free to reach out!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=taorepoara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **taorepoara/taorepoara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
